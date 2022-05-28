@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #484848; 
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.text-gold {
+  color: #ffd700 !important;
+}
+.border_title {
+  background-color: #ffd700;
+  width: 95px;
+  height: 5px;
+  top: -10px;
+  left: 1px;
+  font-size: 0;
+  display: inline-block;
+  position: relative;
+}
+
+  
